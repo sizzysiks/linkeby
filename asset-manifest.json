@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/linkedby.com/static/css/main.7e761748.css",
-    "main.js": "/linkedby.com/static/js/main.eaba0226.js",
-    "static/media/video2.mp4": "/linkedby.com/static/media/video2.b0c2fa161f2ad2f77b16.mp4",
-    "static/media/not-found.jpg": "/linkedby.com/static/media/not-found.b730ae10316e90aea29a.jpg",
-    "static/media/phone22.jpg": "/linkedby.com/static/media/phone22.ed7bf7b9899ad221bdf3.jpg",
-    "static/media/delay.jpg": "/linkedby.com/static/media/delay.493a8e68d03e52a4f12a.jpg",
-    "static/media/22.jpg": "/linkedby.com/static/media/22.32c973dc94e9551f3473.jpg",
-    "static/media/11.jpg": "/linkedby.com/static/media/11.d1c1f18dc84c599a1921.jpg",
-    "static/media/connection.png": "/linkedby.com/static/media/connection.ba395a18c1fa80d02f8e.png",
-    "static/media/lock.png": "/linkedby.com/static/media/lock.6de6a2d77d2c504a18ba.png",
-    "static/media/phone.jpg": "/linkedby.com/static/media/phone.2f799ae519845be1851c.jpg",
-    "static/media/completed.png": "/linkedby.com/static/media/completed.935c086bdc82756b935f.png",
-    "static/media/5.svg": "/linkedby.com/static/media/5.326561c21a7ef550813e96c60a8bb3f2.svg",
-    "static/media/4.svg": "/linkedby.com/static/media/4.62f2678ae615448f4c2a400c787d4b77.svg",
-    "static/media/6.svg": "/linkedby.com/static/media/6.7dae49f1f3728f9a7b03894f7c7441cd.svg",
-    "static/media/profile.svg": "/linkedby.com/static/media/profile.980ac40f3577b96e1b158593c25e18ca.svg",
-    "index.html": "/linkedby.com/index.html",
-    "main.7e761748.css.map": "/linkedby.com/static/css/main.7e761748.css.map",
-    "main.eaba0226.js.map": "/linkedby.com/static/js/main.eaba0226.js.map"
+    "main.css": "/linkeby/static/css/main.5744cea7.css",
+    "main.js": "/linkeby/static/js/main.acabcc9d.js",
+    "static/media/video2.mp4": "/linkeby/static/media/video2.b0c2fa161f2ad2f77b16.mp4",
+    "static/media/not-found.jpg": "/linkeby/static/media/not-found.b730ae10316e90aea29a.jpg",
+    "static/media/phone22.jpg": "/linkeby/static/media/phone22.ed7bf7b9899ad221bdf3.jpg",
+    "static/media/delay.jpg": "/linkeby/static/media/delay.493a8e68d03e52a4f12a.jpg",
+    "static/media/22.jpg": "/linkeby/static/media/22.32c973dc94e9551f3473.jpg",
+    "static/media/11.jpg": "/linkeby/static/media/11.d1c1f18dc84c599a1921.jpg",
+    "static/media/connection.png": "/linkeby/static/media/connection.ba395a18c1fa80d02f8e.png",
+    "static/media/lock.png": "/linkeby/static/media/lock.6de6a2d77d2c504a18ba.png",
+    "static/media/phone.jpg": "/linkeby/static/media/phone.2f799ae519845be1851c.jpg",
+    "static/media/completed.png": "/linkeby/static/media/completed.935c086bdc82756b935f.png",
+    "static/media/5.svg": "/linkeby/static/media/5.326561c21a7ef550813e96c60a8bb3f2.svg",
+    "static/media/4.svg": "/linkeby/static/media/4.62f2678ae615448f4c2a400c787d4b77.svg",
+    "static/media/6.svg": "/linkeby/static/media/6.7dae49f1f3728f9a7b03894f7c7441cd.svg",
+    "static/media/profile.svg": "/linkeby/static/media/profile.980ac40f3577b96e1b158593c25e18ca.svg",
+    "index.html": "/linkeby/index.html",
+    "main.5744cea7.css.map": "/linkeby/static/css/main.5744cea7.css.map",
+    "main.acabcc9d.js.map": "/linkeby/static/js/main.acabcc9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e761748.css",
-    "static/js/main.eaba0226.js"
+    "static/css/main.5744cea7.css",
+    "static/js/main.acabcc9d.js"
   ]
 }
