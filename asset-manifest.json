@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/linkeby/static/css/main.5744cea7.css",
-    "main.js": "/linkeby/static/js/main.acabcc9d.js",
+    "main.css": "/linkeby/static/css/main.b595f450.css",
+    "main.js": "/linkeby/static/js/main.0351c2eb.js",
     "static/media/video2.mp4": "/linkeby/static/media/video2.b0c2fa161f2ad2f77b16.mp4",
     "static/media/not-found.jpg": "/linkeby/static/media/not-found.b730ae10316e90aea29a.jpg",
     "static/media/phone22.jpg": "/linkeby/static/media/phone22.ed7bf7b9899ad221bdf3.jpg",
@@ -17,11 +17,11 @@
     "static/media/6.svg": "/linkeby/static/media/6.7dae49f1f3728f9a7b03894f7c7441cd.svg",
     "static/media/profile.svg": "/linkeby/static/media/profile.980ac40f3577b96e1b158593c25e18ca.svg",
     "index.html": "/linkeby/index.html",
-    "main.5744cea7.css.map": "/linkeby/static/css/main.5744cea7.css.map",
-    "main.acabcc9d.js.map": "/linkeby/static/js/main.acabcc9d.js.map"
+    "main.b595f450.css.map": "/linkeby/static/css/main.b595f450.css.map",
+    "main.0351c2eb.js.map": "/linkeby/static/js/main.0351c2eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.5744cea7.css",
-    "static/js/main.acabcc9d.js"
+    "static/css/main.b595f450.css",
+    "static/js/main.0351c2eb.js"
   ]
 }
