@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/linkeby/static/css/main.9784a920.css",
-    "main.js": "/linkeby/static/js/main.af2f486a.js",
+    "main.css": "/linkeby/static/css/main.eaeea4bf.css",
+    "main.js": "/linkeby/static/js/main.ffcf4755.js",
     "static/media/video2.mp4": "/linkeby/static/media/video2.b0c2fa161f2ad2f77b16.mp4",
-    "static/media/not-found.jpg": "/linkeby/static/media/not-found.b730ae10316e90aea29a.jpg",
     "static/media/phone22.jpg": "/linkeby/static/media/phone22.ed7bf7b9899ad221bdf3.jpg",
     "static/media/22.jpg": "/linkeby/static/media/22.32c973dc94e9551f3473.jpg",
     "static/media/11.jpg": "/linkeby/static/media/11.d1c1f18dc84c599a1921.jpg",
+    "static/media/subscription.jpg": "/linkeby/static/media/subscription.6c9dae16fa3d6dbae66d.jpg",
+    "static/media/crd-logo1.png": "/linkeby/static/media/crd-logo1.a256fe8d10a184e28772.png",
     "static/media/lock.png": "/linkeby/static/media/lock.6de6a2d77d2c504a18ba.png",
     "static/media/phone.jpg": "/linkeby/static/media/phone.2f799ae519845be1851c.jpg",
-    "static/media/completed.png": "/linkeby/static/media/completed.935c086bdc82756b935f.png",
     "static/media/5.svg": "/linkeby/static/media/5.326561c21a7ef550813e96c60a8bb3f2.svg",
+    "static/media/paypal-logo.png": "/linkeby/static/media/paypal-logo.fd0fa1abff9cf9bdef53.png",
+    "static/media/crd-logo2.png": "/linkeby/static/media/crd-logo2.bb4bc325416401ec7c6d.png",
+    "static/media/not-found.svg": "/linkeby/static/media/not-found.907688222af6e3ca9a6dbc4f510264c2.svg",
     "static/media/4.svg": "/linkeby/static/media/4.62f2678ae615448f4c2a400c787d4b77.svg",
     "static/media/6.svg": "/linkeby/static/media/6.7dae49f1f3728f9a7b03894f7c7441cd.svg",
+    "static/media/archived.svg": "/linkeby/static/media/archived.f88e2584f2a6f943fc74979bd08702cf.svg",
     "static/media/profile.svg": "/linkeby/static/media/profile.980ac40f3577b96e1b158593c25e18ca.svg",
     "index.html": "/linkeby/index.html",
-    "main.9784a920.css.map": "/linkeby/static/css/main.9784a920.css.map",
-    "main.af2f486a.js.map": "/linkeby/static/js/main.af2f486a.js.map"
+    "main.eaeea4bf.css.map": "/linkeby/static/css/main.eaeea4bf.css.map",
+    "main.ffcf4755.js.map": "/linkeby/static/js/main.ffcf4755.js.map"
   },
   "entrypoints": [
-    "static/css/main.9784a920.css",
-    "static/js/main.af2f486a.js"
+    "static/css/main.eaeea4bf.css",
+    "static/js/main.ffcf4755.js"
   ]
 }
