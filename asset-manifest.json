@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/linkeby/static/css/main.eaeea4bf.css",
-    "main.js": "/linkeby/static/js/main.ffcf4755.js",
+    "main.css": "/linkeby/static/css/main.b7cee032.css",
+    "main.js": "/linkeby/static/js/main.0dd2a406.js",
     "static/media/video2.mp4": "/linkeby/static/media/video2.b0c2fa161f2ad2f77b16.mp4",
     "static/media/phone22.jpg": "/linkeby/static/media/phone22.ed7bf7b9899ad221bdf3.jpg",
     "static/media/22.jpg": "/linkeby/static/media/22.32c973dc94e9551f3473.jpg",
@@ -12,18 +12,18 @@
     "static/media/phone.jpg": "/linkeby/static/media/phone.2f799ae519845be1851c.jpg",
     "static/media/5.svg": "/linkeby/static/media/5.326561c21a7ef550813e96c60a8bb3f2.svg",
     "static/media/paypal-logo.png": "/linkeby/static/media/paypal-logo.fd0fa1abff9cf9bdef53.png",
+    "static/media/support.svg": "/linkeby/static/media/support.ac64210dec86b841fe46f36a7a9bb1c3.svg",
     "static/media/crd-logo2.png": "/linkeby/static/media/crd-logo2.bb4bc325416401ec7c6d.png",
     "static/media/not-found.svg": "/linkeby/static/media/not-found.907688222af6e3ca9a6dbc4f510264c2.svg",
     "static/media/4.svg": "/linkeby/static/media/4.62f2678ae615448f4c2a400c787d4b77.svg",
     "static/media/6.svg": "/linkeby/static/media/6.7dae49f1f3728f9a7b03894f7c7441cd.svg",
     "static/media/archived.svg": "/linkeby/static/media/archived.f88e2584f2a6f943fc74979bd08702cf.svg",
-    "static/media/profile.svg": "/linkeby/static/media/profile.980ac40f3577b96e1b158593c25e18ca.svg",
     "index.html": "/linkeby/index.html",
-    "main.eaeea4bf.css.map": "/linkeby/static/css/main.eaeea4bf.css.map",
-    "main.ffcf4755.js.map": "/linkeby/static/js/main.ffcf4755.js.map"
+    "main.b7cee032.css.map": "/linkeby/static/css/main.b7cee032.css.map",
+    "main.0dd2a406.js.map": "/linkeby/static/js/main.0dd2a406.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaeea4bf.css",
-    "static/js/main.ffcf4755.js"
+    "static/css/main.b7cee032.css",
+    "static/js/main.0dd2a406.js"
   ]
 }
