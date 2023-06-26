@@ -1,10 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.c81fdc21.css",
-    "main.js": "/static/js/main.2c2b4fc3.js",
-    "static/media/video2.mp4": "/static/media/video2.b0c2fa161f2ad2f77b16.mp4",
+    "main.css": "/static/css/main.997a440f.css",
+    "main.js": "/static/js/main.72295af3.js",
     "static/media/phone22.jpg": "/static/media/phone22.ed7bf7b9899ad221bdf3.jpg",
-    "static/media/22.jpg": "/static/media/22.32c973dc94e9551f3473.jpg",
     "static/media/11.jpg": "/static/media/11.d1c1f18dc84c599a1921.jpg",
     "static/media/subscription.jpg": "/static/media/subscription.6c9dae16fa3d6dbae66d.jpg",
     "static/media/crd-logo1.png": "/static/media/crd-logo1.a256fe8d10a184e28772.png",
@@ -19,11 +17,11 @@
     "static/media/6.svg": "/static/media/6.7dae49f1f3728f9a7b03894f7c7441cd.svg",
     "static/media/archived.svg": "/static/media/archived.f88e2584f2a6f943fc74979bd08702cf.svg",
     "index.html": "/index.html",
-    "main.c81fdc21.css.map": "/static/css/main.c81fdc21.css.map",
-    "main.2c2b4fc3.js.map": "/static/js/main.2c2b4fc3.js.map"
+    "main.997a440f.css.map": "/static/css/main.997a440f.css.map",
+    "main.72295af3.js.map": "/static/js/main.72295af3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c81fdc21.css",
-    "static/js/main.2c2b4fc3.js"
+    "static/css/main.997a440f.css",
+    "static/js/main.72295af3.js"
   ]
 }
