@@ -1,29 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e5e0e01.css",
-    "main.js": "/static/js/main.3ccac615.js",
+    "main.css": "/static/css/main.bff0b9c4.css",
+    "main.js": "/static/js/main.5b4fcd68.js",
     "static/media/phone22.jpg": "/static/media/phone22.ed7bf7b9899ad221bdf3.jpg",
-    "static/media/tutorial.jpg": "/static/media/tutorial.ddcc4636d301c07bddbe.jpg",
     "static/media/22.jpg": "/static/media/22.32c973dc94e9551f3473.jpg",
     "static/media/11.jpg": "/static/media/11.d1c1f18dc84c599a1921.jpg",
     "static/media/subscription.jpg": "/static/media/subscription.6c9dae16fa3d6dbae66d.jpg",
     "static/media/crd-logo1.png": "/static/media/crd-logo1.a256fe8d10a184e28772.png",
     "static/media/lock.png": "/static/media/lock.6de6a2d77d2c504a18ba.png",
     "static/media/phone.jpg": "/static/media/phone.2f799ae519845be1851c.jpg",
-    "static/media/5.svg": "/static/media/5.326561c21a7ef550813e96c60a8bb3f2.svg",
     "static/media/paypal-logo.png": "/static/media/paypal-logo.fd0fa1abff9cf9bdef53.png",
     "static/media/support.svg": "/static/media/support.ac64210dec86b841fe46f36a7a9bb1c3.svg",
     "static/media/crd-logo2.png": "/static/media/crd-logo2.bb4bc325416401ec7c6d.png",
+    "static/media/tutorial.svg": "/static/media/tutorial.4656a389003589925a2e55ead46250b1.svg",
     "static/media/not-found.svg": "/static/media/not-found.907688222af6e3ca9a6dbc4f510264c2.svg",
-    "static/media/4.svg": "/static/media/4.62f2678ae615448f4c2a400c787d4b77.svg",
-    "static/media/6.svg": "/static/media/6.7dae49f1f3728f9a7b03894f7c7441cd.svg",
     "static/media/archived.svg": "/static/media/archived.f88e2584f2a6f943fc74979bd08702cf.svg",
     "index.html": "/index.html",
-    "main.1e5e0e01.css.map": "/static/css/main.1e5e0e01.css.map",
-    "main.3ccac615.js.map": "/static/js/main.3ccac615.js.map"
+    "main.bff0b9c4.css.map": "/static/css/main.bff0b9c4.css.map",
+    "main.5b4fcd68.js.map": "/static/js/main.5b4fcd68.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e5e0e01.css",
-    "static/js/main.3ccac615.js"
+    "static/css/main.bff0b9c4.css",
+    "static/js/main.5b4fcd68.js"
   ]
 }
