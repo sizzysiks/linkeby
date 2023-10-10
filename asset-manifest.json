@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c3177c9.css",
-    "main.js": "/static/js/main.ea00fdeb.js",
+    "main.css": "/static/css/main.580c729f.css",
+    "main.js": "/static/js/main.69d5d354.js",
     "static/media/subscription.jpg": "/static/media/subscription.6c9dae16fa3d6dbae66d.jpg",
     "static/media/ui-matching.jpg": "/static/media/ui-matching.a3fdc4cb014cbc433a16.jpg",
-    "static/media/crd-logo1.png": "/static/media/crd-logo1.a256fe8d10a184e28772.png",
     "static/media/ui-sample-1.jpg": "/static/media/ui-sample-1.56af80d8879944d1ca65.jpg",
     "static/media/ui-sample-2.jpg": "/static/media/ui-sample-2.4450144b7dc7d7d6e8e6.jpg",
     "static/media/ui-communication.jpg": "/static/media/ui-communication.fc006e324bb0fb30d97e.jpg",
     "static/media/ui-backlink-connects.jpg": "/static/media/ui-backlink-connects.3954ffbf6f191fc9836a.jpg",
     "static/media/ui-backlinks.jpg": "/static/media/ui-backlinks.c0e0f1585b75fd2b8872.jpg",
     "static/media/lock.png": "/static/media/lock.6de6a2d77d2c504a18ba.png",
-    "static/media/paypal-logo.png": "/static/media/paypal-logo.fd0fa1abff9cf9bdef53.png",
     "static/media/avatar2.png": "/static/media/avatar2.fc3e6f28b7210fe1d347.png",
     "static/media/support.svg": "/static/media/support.ac64210dec86b841fe46f36a7a9bb1c3.svg",
     "static/media/avatar.png": "/static/media/avatar.3aaa02cb107aa92ea757.png",
-    "static/media/crd-logo2.png": "/static/media/crd-logo2.bb4bc325416401ec7c6d.png",
+    "static/media/payment.svg": "/static/media/payment.4f04bec72e6d89b69a5b71374f6a3678.svg",
     "static/media/tutorial.svg": "/static/media/tutorial.4656a389003589925a2e55ead46250b1.svg",
     "static/media/not-found.svg": "/static/media/not-found.907688222af6e3ca9a6dbc4f510264c2.svg",
     "static/media/archived.svg": "/static/media/archived.f88e2584f2a6f943fc74979bd08702cf.svg",
@@ -28,11 +26,11 @@
     "static/media/blob2.svg": "/static/media/blob2.8ce659a396e842f679f2e52fad005f16.svg",
     "static/media/wave.svg": "/static/media/wave.7746be0475b6d11d1af113e1be631d3f.svg",
     "static/media/wave2.svg": "/static/media/wave2.f15190c86696a0b702cc5a32ee611e34.svg",
-    "main.6c3177c9.css.map": "/static/css/main.6c3177c9.css.map",
-    "main.ea00fdeb.js.map": "/static/js/main.ea00fdeb.js.map"
+    "main.580c729f.css.map": "/static/css/main.580c729f.css.map",
+    "main.69d5d354.js.map": "/static/js/main.69d5d354.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c3177c9.css",
-    "static/js/main.ea00fdeb.js"
+    "static/css/main.580c729f.css",
+    "static/js/main.69d5d354.js"
   ]
 }
