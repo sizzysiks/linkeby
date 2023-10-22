@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5bba58e.css",
-    "main.js": "/static/js/main.b46b6038.js",
+    "main.css": "/static/css/main.7fa06a6e.css",
+    "main.js": "/static/js/main.0e98f8ad.js",
     "static/media/subscription.jpg": "/static/media/subscription.6c9dae16fa3d6dbae66d.jpg",
     "static/media/ui-matching.jpg": "/static/media/ui-matching.a3fdc4cb014cbc433a16.jpg",
     "static/media/ui-sample-1.jpg": "/static/media/ui-sample-1.56af80d8879944d1ca65.jpg",
@@ -19,6 +19,7 @@
     "static/media/archived.svg": "/static/media/archived.f88e2584f2a6f943fc74979bd08702cf.svg",
     "static/media/danone-grayscale.webp": "/static/media/danone-grayscale.90507217518b62baac91.webp",
     "static/media/reddit-monochrome.webp": "/static/media/reddit-monochrome.51ccb07537a1f78e53bf.webp",
+    "static/media/mail.svg": "/static/media/mail.f64327fe6f823ee40e7beb60112227fd.svg",
     "static/media/hubspot-monochrome.webp": "/static/media/hubspot-monochrome.012d26533f1b8fcb0aee.webp",
     "static/media/salesforce-grayscale.webp": "/static/media/salesforce-grayscale.1ed3f342c08088655f88.webp",
     "index.html": "/index.html",
@@ -26,11 +27,11 @@
     "static/media/blob2.svg": "/static/media/blob2.8ce659a396e842f679f2e52fad005f16.svg",
     "static/media/wave.svg": "/static/media/wave.7746be0475b6d11d1af113e1be631d3f.svg",
     "static/media/wave2.svg": "/static/media/wave2.f15190c86696a0b702cc5a32ee611e34.svg",
-    "main.e5bba58e.css.map": "/static/css/main.e5bba58e.css.map",
-    "main.b46b6038.js.map": "/static/js/main.b46b6038.js.map"
+    "main.7fa06a6e.css.map": "/static/css/main.7fa06a6e.css.map",
+    "main.0e98f8ad.js.map": "/static/js/main.0e98f8ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5bba58e.css",
-    "static/js/main.b46b6038.js"
+    "static/css/main.7fa06a6e.css",
+    "static/js/main.0e98f8ad.js"
   ]
 }
